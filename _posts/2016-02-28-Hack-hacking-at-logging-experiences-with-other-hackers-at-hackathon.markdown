@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hack hacking with hackers at hackathon"
 date:   2016-02-25 22:33:29 +0000
 categories: hackathons 
 ---
