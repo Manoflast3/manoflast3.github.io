@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introspection"
-date:   2016-02-25 22:33:29 +0000
+date:   2016-03-05 22:33:29 +0000
 categories: Day-to-day
 ---
 
